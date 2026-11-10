@@ -1,0 +1,12 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.example.trondigitalaccess'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.example.trondigitalaccess'
+        minSdk 29
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+    }
+}
